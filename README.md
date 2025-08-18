@@ -1,27 +1,28 @@
 <!-- Header -->
 <h1 align="center">Hi there 👋, I'm Abhishek Chaudhary</h1>
-<h3 align="center">💻 Flutter Developer | 🎓 BSc IT Student</h3>
+<h3 align="center">🐦 Flutter Developer | 🎓 BSc IT Student</h3>
 
 <p align="center">
-  🚀 Passionate about building seamless, modern mobile experiences using Flutter & Dart.  
-  Always curious about new tech and striving to craft clean, scalable apps with great UI/UX.  
+  🚀 Passionate about crafting seamless cross-platform mobile experiences with <b>Dart</b> & <b>Flutter</b>.  
+  Focused on clean architecture, performance, and delightful UI/UX using Material 3 design.  
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Focus
 
-- 🐦 **Flutter & Dart** – Cross-platform mobile apps  
-- 🔥 **Firebase** – Auth, Firestore, Notifications  
-- ⚡ **Backend** – Node.js, Express, REST APIs  
-- 🗄️ **Databases** – MongoDB, SQLite, Drift  
-- 🎨 **UI/UX** – Material 3, Responsive Design  
+- 🐦 **Flutter** – Cross-platform mobile development  
+- 🎯 **Dart** – Clean, scalable, and modern app logic  
+- 🔥 **Firebase** – Authentication, Firestore, Push Notifications  
+- 🗄️ **Local Storage** – SQLite, Drift (offline-first apps)  
+- 🎨 **UI/UX** – Material 3, animations, responsive layouts  
 
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
 </p>
 
 ---
@@ -29,20 +30,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi98989&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi98989&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhi98989&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi98989&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=javascript,css,html,scss" height="165"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🛒 **E-Commerce App** – Flutter-based shopping app with cart & checkout.  
-- 📦 **Inventory Manager** – Stock tracking & barcode scanning system.  
-- 🍽️ **Self-Ordering App** – Mobile-first restaurant ordering system.  
-- 📚 **Academe+** – Library & attendance management platform.  
+- 📱 **E-Commerce App** – Flutter shopping experience with cart & checkout  
+- 📦 **Inventory Manager** – Stock tracking & barcode scanning system  
+- 🍽️ **Self-Ordering App** – Mobile-first restaurant ordering solution  
+- 📚 **Academe+** – Library & student attendance management  
 
-👉 Check out my repositories for more!
+👉 Explore my repositories for more Flutter projects!
 
 ---
 
@@ -59,4 +60,4 @@
 
 ---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨
+✨ _“Building the future with Flutter & Dart — one widget at a time.”_ ✨

@@ -26,7 +26,7 @@
 
 As a student developer, I focus on:
 * **📱 Adaptive UI:** Learning to build interfaces that look great on any screen size.
-* **⚡ State Management:** deeply understanding `Riverpod` and `Bloc` patterns.
+* **⚡ State Management:** deeply understanding 'Provider', `Riverpod` and `Bloc` patterns.
 * **🔌 API Integration:** Connecting apps to the real world using REST APIs and Firebase.
 * **💾 Database Handling:** Managing offline data with SQLite and Hive.
 

@@ -68,6 +68,7 @@ As a student developer, I focus on:
 | **🛍️ E-Commerce App** | A shopping app with a functional cart and product details. Learned complex **ListView** handling. | `Flutter` `Provider` |
 | **📦 Inventory Manager** | Stock tracking system. Focused on **CRUD operations** and offline storage. | `Flutter` `SQLite` |
 | **🍽️ Self-Ordering App** | Restaurant menu app. Focused on **UI Animations** and user flow. | `Flutter` `API` |
+| 🎓 **Academe+** | Library & attendance management platform for students and teachers. | `Flutter` `API` `Drift` `Provider` `.net` |
 
 ---
 

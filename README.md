@@ -1,78 +1,69 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Abhishek+Chaudhary;BSc+IT+Undergrad+%F0%9F%8E%93;Flutter+Developer+%F0%9F%93%B1;Building+Modern+Mobile+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Abhishek+Chaudhary;Flutter+Developer+%F0%9F%93%B1;BSc+IT+Undergrad+%F0%9F%8E%93;Exploring+Flame+%26+Forge2D+%F0%9F%91%BE" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
-  🎓 Transforming Code into Creative Mobile Solutions
+  🚀 Crafting High-Performance Mobile Experiences
 </h3>
 
 <p align="center">
-   I am a final-year <b>BSc IT Student</b> and a passionate <b>Flutter Developer</b>. <br>
-   While mastering computer science fundamentals at university, I spend my free time building <b>cross-platform applications</b>. My goal is to bridge the gap between academic theory and real-world mobile architecture using <b>Dart & Flutter</b>.
+   I am a final-year <b>BSc IT Student</b> and a <b>Flutter Developer</b> focused on pushing the boundaries of cross-platform apps. <br>
+   From building <b>multiplayer physics games</b> to <b>low-level C integrations</b>, I love solving complex architectural challenges.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-chaudhary-24b649292/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:abhi124777@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🧠 Core Focus: Mobile Development
+### 🧠 Current Focus & Expertise
 
-As a student developer, I focus on:
-* **📱 Adaptive UI:** Learning to build interfaces that look great on any screen size.
-* **⚡ State Management:** deeply understanding `Provider`,`Riverpod` and `Bloc` patterns.
-* **🔌 API Integration:** Connecting apps to the real world using REST APIs and Firebase.
-* **💾 Database Handling:** Managing offline data with Drift, SQLite and Hive.
-
----
-
-### 🛠️ My Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
-      <br><b>Flutter</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=dart" width="40" height="40" alt="Dart" />
-      <br><b>Dart</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
-      <br><b>Firebase</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-      <br><b>Git</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
-      <br><b>VS Code</b>
-    </td>
-  </tr>
-</table>
+* **🎮 Game Development:** Building real-time multiplayer systems using the **Flame Engine** and **Forge2D (Box2D)**.
+* **⚡ State Management:** Transitioning from long-term `Provider` usage to mastering `Riverpod` and `Signals`.
+* **⚙️ Native Bridges:** Developing custom Flutter plugins using **C and Dart FFI** to access deep hardware metrics.
+* **🌐 Immersive Web:** Designing cinematic scrollytelling experiences (like my recent **Diabetes Awareness** project).
 
 ---
 
-### 🚀 Academic & Personal Projects
-
-| Project | What I Built | Tech Used |
-| :--- | :--- | :--- |
-| **🛍️ E-Commerce App** | A shopping app with a functional cart and product details. Learned complex **ListView** handling. | `Flutter` `Provider` |
-| **📦 Inventory Manager** | Stock tracking system. Focused on **CRUD operations** and offline storage. | `Flutter` `SQLite` |
-| **🍽️ Self-Ordering App** | Restaurant menu app. Focused on **UI Animations** and user flow. | `Flutter` `API` |
-| 🎓 **Academe+** | Library & attendance management platform for students and teachers. | `Flutter` `API` `Drift` `Provider` `.net` |
-
----
-
-### 📊 GitHub Activity & Metrics
+### 🛠️ Tech Stack
 
 <div align="center">
-  <a href="
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,dotnet,linux,git,github,vscode,cpp" />
+</div>
+
+**State Management:** `Provider` (Expert) | `Riverpod` (Building) | `Signals`  
+**Databases:** `Drift` | `Hive` | `Firebase Realtime DB`  
+**Tools:** `VMware/Linux` | `Postman` | `Figma`
+
+---
+
+### 🚀 Key Projects
+
+| Project | What I Solved | Tech Used |
+| :--- | :--- | :--- |
+| **🕹️ Multiplayer Hoverbike** | Implemented real-time room states and 2D physics networking. | `Flame` `Forge2D` `Firebase` |
+| **🩸 Diabetes Awareness** | Created a cinematic web experience with complex scroll animations. | `Flutter Web` `Canvas` |
+| **🛠️ Hardware Info Plugin** | Built a low-level bridge to fetch device data directly via C. | `Dart FFI` `C` |
+| 🎓 **Academe+** | Developed a library/attendance ERP for my final year project. | `Flutter` `.NET` `Drift` |
+| **🛍️ Sales Rep App** | Built a real-time order tracking system for sales teams. | `Riverpod` `REST API` |
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Langs" height="170" />
+</div>
+
+---
+
+<p align="center">
+  <i>"Currently deep-diving into Riverpod and game physics."</i>
+</p>

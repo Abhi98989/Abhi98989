@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Abhishek+Chaudhary;Flutter+Developer+%F0%9F%93%B1;BSc+IT+Undergrad+%F0%9F%8E%93;Exploring+Flame+%26+Forge2D+%F0%9F%91%BE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abhishek+Chaudhary;Flutter+Architect+%F0%9F%9A%80;BSc+IT+Final+Year+%F0%9F%8E%93;Building+Scalable+Systems+%F0%9F%94%A5;Game+Dev+%7C+ERP+%7C+Self-Order+Systems" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
-  🚀 Crafting High-Performance Mobile Experiences
+  🚀 Designing Scalable Flutter Architectures & Real-Time Systems
 </h3>
 
 <p align="center">
-   I am a final-year <b>BSc IT Student</b> and a <b>Flutter Developer</b> focused on pushing the boundaries of cross-platform apps. <br>
-   From building <b>multiplayer physics games</b> to <b>low-level C integrations</b>, I love solving complex architectural challenges.
+   I'm a <b>Final-Year BSc IT Student</b> and a <b>Flutter Developer</b> focused on scalable architecture, 
+   real-time systems, and performance optimization. <br>
+   I build production-ready apps with clean state management, structured APIs, 
+   and advanced UI experiences using Material 3.
 </p>
 
 <p align="center">
@@ -22,48 +24,72 @@
 
 ---
 
-### 🧠 Current Focus & Expertise
+## 🧠 Current Focus
 
-* **🎮 Game Development:** Building real-time multiplayer systems using the **Flame Engine** and **Forge2D (Box2D)**.
-* **⚡ State Management:** Transitioning from long-term `Provider` usage to mastering `Riverpod` and `Signals`.
-* **⚙️ Native Bridges:** Developing custom Flutter plugins using **C and Dart FFI** to access deep hardware metrics.
-* **🌐 Immersive Web:** Designing cinematic scrollytelling experiences (like my recent **Diabetes Awareness** project).
+- 🏗️ **Scalable Architecture Design** (Service → Provider/Riverpod → Clean UI)
+- 🔁 **Advanced State Management** (Provider → Riverpod → Signals)
+- 📦 **API-Driven Systems** (Authentication, Product APIs, Reorder Systems)
+- 📍 **Google Maps Navigation & Live Tracking**
+- 🎮 **Multiplayer Physics Games (Flame + Forge2D)**
+- 🛒 **Self-Ordering Ecosystem (User App + Admin App + Web + Notifications)**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,dotnet,linux,git,github,vscode,cpp" />
 </div>
 
-**State Management:** `Provider` (Expert) | `Riverpod` (Building) | `Signals`  
-**Databases:** `Drift` | `Hive` | `Firebase Realtime DB`  
-**Tools:** `VMware/Linux` | `Postman` | `Figma`
+### 📱 Flutter Ecosystem
+- **State Management:** Provider (Advanced), Riverpod (Advanced Learning), Signals  
+- **Database:** Drift | Hive | Firebase Realtime DB  
+- **Networking:** REST APIs | JSON Serialization | Clean Service Layer  
+- **Maps:** google_maps_flutter + Polyline Routing  
+- **Architecture:** Modular Design | Separation of Concerns  
+
+### ⚙️ Backend & Tools
+- .NET APIs  
+- Firebase Auth & Realtime Notifications  
+- Postman API Testing  
+- Linux (VMware)  
+- Figma UI Planning  
 
 ---
 
-### 🚀 Key Projects
+## 🚀 Featured Projects
 
-| Project | What I Solved | Tech Used |
-| :--- | :--- | :--- |
-| **🕹️ Multiplayer Hoverbike** | Implemented real-time room states and 2D physics networking. | `Flame` `Forge2D` `Firebase` |
-| **🩸 Diabetes Awareness** | Created a cinematic web experience with complex scroll animations. | `Flutter Web` `Canvas` |
-| **🛠️ Hardware Info Plugin** | Built a low-level bridge to fetch device data directly via C. | `Dart FFI` `C` |
-| 🎓 **Academe+** | Developed a library/attendance ERP for my final year project. | `Flutter` `.NET` `Drift` |
-| **🛍️ Sales Rep App** | Built a real-time order tracking system for sales teams. | `Riverpod` `REST API` |
+| Project | What I Engineered | Tech Used |
+|----------|------------------|-----------|
+| 🛒 **Self-Order System** | Built full ecosystem (User + Admin + Web) with real-time order notifications & status sync | Flutter | Firebase | Provider |
+| 🎓 **Academe+ ERP** | Library + Attendance + Assignment Management with structured API layers | Flutter | .NET | Drift |
+| 🛍️ **Sales Rep App** | Product list, reorder API, barcode scanning, stock history tracking | Riverpod | REST API |
+| 🏠 **Real Estate UI System** | Advanced property filtering, horizontal cards, search architecture | Flutter | Clean UI Architecture |
+| 📍 **Live Navigation Module** | Real-time location + route polyline updates | google_maps_flutter |
+| 🔐 **OTP Authentication Flow** | API-based email OTP verification system | Provider | REST |
+| 🎮 **Multiplayer Hoverbike Game** | Real-time physics room sync | Flame | Forge2D | Firebase |
 
 ---
 
-### 📊 GitHub Activity
+## 🧩 What Makes Me Different?
+
+- I think in **Architecture before UI**
+- I design **Scalable State Flows**
+- I separate **Service Layer from Presentation**
+- I optimize for **Performance & Maintainability**
+- I experiment with **Low-Level Integrations (C + Dart FFI)**
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Langs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170" />
 </div>
 
 ---
 
 <p align="center">
-  <i>"Currently deep-diving into Riverpod and game physics."</i>
+  <i>"Currently mastering Riverpod, advanced architecture patterns, and multiplayer synchronization."</i>
 </p>

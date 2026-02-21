@@ -49,7 +49,7 @@
 - **Architecture:** Modular Design | Separation of Concerns  
 
 ### ⚙️ Backend & Tools
-- .NET APIs  
+- Python Fast API  
 - Firebase Auth & Realtime Notifications  
 - Postman API Testing  
 - Linux (VMware)  
